@@ -1,3 +1,9 @@
 # Computer Network - Sharif University of Technology 
-Theoretical and practical assignments and project of CN at Sharif Univercity of Technology<br _>
-Each practical has a README shoud be completed
+Theoretical and practical assignments and project of CN at Sharif Univercity of Technology (CE-443)<br _>
+
+Excerpt description of practical assignments with their solutions:
+* ###HW1###
+
+* ###HW2###
+
+* ###HW3###
