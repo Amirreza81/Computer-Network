@@ -5,7 +5,7 @@ Brief explanation of practical assignments with their solutions:
 
 * ## HW1 - Telnet, DNS, HTTP, Netstat###
 
-* ## HW2 - Load Balancer###
+* ## HW2 - Load Balancer##
 
     This project simulates a simple **Load Balancer** that distributes incoming traffic among multiple backend servers using a **Round Robin** algorithm. The goal is to improve scalability and enhance the responsiveness of the web applications behind the load balancer.
 
