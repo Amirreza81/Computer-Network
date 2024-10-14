@@ -3,7 +3,7 @@ Theoretical and practical assignments and project of CN at Sharif Univercity of 
 
 Brief explanation of practical assignments with their solutions:
 
-* ## HW1 - Telnet, DNS, HTTP, Netstat###
+* ## HW1 - Telnet, DNS, HTTP, Netstat##
 
 * ## HW2 - Load Balancer##
 
@@ -65,4 +65,4 @@ Brief explanation of practical assignments with their solutions:
 
     The load balancer will be tested by sending a large number of requests. The distribution of requests should be almost equal across all backend servers, demonstrating the proper functionality of the round-robin algorithm.
 
-* ## HW3 - Routing Simulation###
+* ## HW3 - Routing Simulation##
